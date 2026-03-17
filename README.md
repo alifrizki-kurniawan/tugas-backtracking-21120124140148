@@ -21,3 +21,6 @@ Program ini dilengkapi dengan visualisasi sederhana berbasis CLI (Command Line I
 3. Jalankan perintah berikut di terminal:
    ```bash
    python n_queen_backtracking.py
+
+## Video Demo Singkat
+Link YouTube : https://youtu.be/KJb-h5LJR7c
